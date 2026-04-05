@@ -1,4 +1,4 @@
-# 🚀 Pipeline Insight Analyzer
+#  Pipeline Insight Analyzer
 
 **Student Name:** Gargi
 
@@ -13,9 +13,9 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
-### ❗ Problem Statement
+###  Problem Statement
 
 In modern CI/CD workflows, multiple pipelines run continuously, but there is limited visibility into their performance.
 This makes it difficult to identify slow builds, failures, and inefficiencies.
@@ -31,7 +31,7 @@ This makes it difficult to identify slow builds, failures, and inefficiencies.
 
 ---
 
-### 🔥 Key Features
+###  Key Features
 
 * Simulated Jenkins pipeline data
 * Performance analysis across projects
