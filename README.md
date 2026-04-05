@@ -1,53 +1,98 @@
 # 🚀 Pipeline Insight Analyzer
 
+**Student Name:** Gargi
+**Registration No:** 23FE10CII00123
+**Course:** DevOps
+**Project Tool:** Jenkins & CI
+
+---
+
 ## 📌 Project Overview
-This project analyzes CI/CD pipeline performance and provides insights such as execution time, success rate, and health score using a Streamlit dashboard.
+
+### ❗ Problem Statement
+
+In modern CI/CD workflows, multiple pipelines run continuously, but there is limited visibility into their performance.
+This makes it difficult to identify slow builds, failures, and inefficiencies.
 
 ---
 
-## ❗ Problem Statement
-In DevOps environments, pipelines run continuously but it is difficult to monitor performance and detect failures efficiently.
+### 🎯 Objective
+
+* Analyze pipeline execution data
+* Identify performance issues
+* Calculate success rate and duration
+* Visualize insights using a dashboard
 
 ---
 
-## 🎯 Objectives
-- Analyze pipeline execution data  
-- Compute performance metrics  
-- Identify inefficiencies  
-- Visualize insights  
+### 🔥 Key Features
+
+* Simulated Jenkins pipeline data
+* Performance analysis across projects
+* Insight generation (fast, slow, failures)
+* Interactive dashboard using Streamlit
 
 ---
 
-## 🧰 Technology Stack
+## 🛠️ Technology Stack
 
-### Core
-- Python  
-- Streamlit  
-- Pandas  
+### Core Technologies
 
-### DevOps
-- Jenkins (conceptual integration)  
-- GitHub  
+* Programming Language: Python
+* Framework: Streamlit
+* Data Processing: Pandas
+
+### DevOps Tools
+
+* CI/CD: Jenkins (conceptual)
+* Version Control: Git & GitHub
 
 ---
 
 ## ⚙️ How It Works
-GitHub → Jenkins → Data → Python → Dashboard
+
+1. Pipeline data is generated (simulated or from Jenkins)
+2. Data is stored in CSV format
+3. Python processes the data
+4. Metrics are calculated (duration, success rate)
+5. Results are visualized in a dashboard
 
 ---
 
-## 📊 Metrics
-- Average Duration  
-- Success Rate  
-- Health Score ⭐  
+## 📊 Performance Metrics
+
+* Average Pipeline Duration
+* Success Rate
+* Pipeline Health Score ⭐
+* Project Comparison
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+* Python 3.8+
+
+---
+
+### Installation
+
+```bash
+pip install streamlit pandas
+streamlit run app.py
+```
 
 ---
 
 ## 🖥️ Dashboard
-(Will add screenshot)
+
+(Add your screenshot here)
 
 ---
 
 ## 🔮 Future Scope
-- Jenkins API integration  
-- Real-time monitoring  
+
+* Integration with Jenkins API
+* Real-time pipeline monitoring
+* Automated data collection
