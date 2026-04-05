@@ -1,0 +1,7 @@
+project,build_number,duration,status
+Alpha,1,120,success
+Alpha,2,140,failed
+Alpha,3,110,success
+Beta,1,200,success
+Beta,2,220,failed
+Beta,3,210,success
