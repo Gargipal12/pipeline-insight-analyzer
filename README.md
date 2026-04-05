@@ -89,14 +89,6 @@ pip install streamlit pandas
 streamlit run app.py
 ```
 
----
-
-## 🖥️ Dashboard
-
-(Add your screenshot here)
-
----
-
 ## 🔮 Future Scope
 
 * Integration with Jenkins API
