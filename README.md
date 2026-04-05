@@ -1,8 +1,14 @@
 # 🚀 Pipeline Insight Analyzer
 
 **Student Name:** Gargi
+
+
 **Registration No:** 23FE10CII00123
+
+
 **Course:** DevOps
+
+
 **Project Tool:** Jenkins & CI
 
 ---
