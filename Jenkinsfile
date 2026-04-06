@@ -4,13 +4,13 @@ pipeline {
     stages {
         stage('Install Dependencies') {
             steps {
-                bat 'python -m pip install streamlit pandas'
+                bat '"C:\\Users\\Gargi\\AppData\\Local\\Programs\\Python\\Python314\\python.exe" -m pip install streamlit pandas'
             }
         }
 
         stage('Run App Check') {
             steps {
-                bat 'python app.py'
+                bat '"C:\\Users\\Gargi\\AppData\\Local\\Programs\\Python\\Python314\\python.exe" app.py'
             }
         }
     }
