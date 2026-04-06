@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Install Dependencies') {
             steps {
-                bat 'pip install streamlit pandas'
+                bat '-m pip install streamlit pandas'
             }
         }
 
