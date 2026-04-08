@@ -13,7 +13,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 ###  Problem Statement
 
@@ -22,7 +22,7 @@ This makes it difficult to identify slow builds, failures, and inefficiencies.
 
 ---
 
-### 🎯 Objective
+###  Objective
 
 * Analyze pipeline execution data
 * Identify performance issues
@@ -40,7 +40,7 @@ This makes it difficult to identify slow builds, failures, and inefficiencies.
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Core Technologies
 
@@ -55,7 +55,7 @@ This makes it difficult to identify slow builds, failures, and inefficiencies.
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. Pipeline data is generated (simulated or from Jenkins)
 2. Data is stored in CSV format
@@ -65,7 +65,7 @@ This makes it difficult to identify slow builds, failures, and inefficiencies.
 
 ---
 
-## 📊 Performance Metrics
+##  Performance Metrics
 
 * Average Pipeline Duration
 * Success Rate
@@ -74,7 +74,7 @@ This makes it difficult to identify slow builds, failures, and inefficiencies.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -89,7 +89,7 @@ pip install streamlit pandas
 streamlit run app.py
 ```
 
-## 🔮 Future Scope
+##  Future Scope
 
 * Integration with Jenkins API
 * Real-time pipeline monitoring
