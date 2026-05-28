@@ -68,11 +68,11 @@ Installation
 
 Install dependencies:
 
-bash   pip install streamlit pandas
+bashpip install streamlit pandas
 
 Run the dashboard:
 
-bash   streamlit run app.py
+bashstreamlit run app.py
 
 📁 Project Structure
 Pipeline-Insight-Analyzer/
